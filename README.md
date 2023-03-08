@@ -9,4 +9,4 @@ Here I'm going to be committing my work thru the introduction.
 
 
 ### LINK
-<a href>="https://kujtimsadiku.github.io/Odin-Project-Introduction/odin-recipes/">My Recipe Page</a>
+<a href>https://kujtimsadiku.github.io/Odin-Project-Introduction/odin-recipes/</a>
